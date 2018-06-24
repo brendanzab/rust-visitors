@@ -1,0 +1,6 @@
+[package]
+name = "visitors"
+version = "0.1.0"
+authors = ["Brendan Zabarauskas <bjzaba@yahoo.com.au>"]
+
+[dependencies]
